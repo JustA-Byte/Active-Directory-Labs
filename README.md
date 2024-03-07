@@ -22,7 +22,7 @@ Throughout these Active Directory Labs, I will look to set up an Active Director
 - Sysmon
 
 ### Exercises
-- <a href=""> Creating a Logical Diagram </a>
+- <a href="https://github.com/JustA-Byte/Active-Directory-Labs/blob/main/Active%20Directory%20Lab%20Logical%20Diagram.md"> Creating a Logical Diagram </a>
 - <a href=""> Installing Virtual Vachines </a> (coming soon)
 - <a href=""> Install & Configure Software </a> (coming soon)
 - <a href=""> Configuring Active Directory on a Windows Server </a> (coming soon)
