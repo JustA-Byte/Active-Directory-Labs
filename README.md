@@ -2,7 +2,7 @@
 
 ## Objective
 
-Throughout these Active Directory Labs, I will 
+Throughout these Active Directory Labs, I will look to set up an Active Directory (AD) server which manages users and hosts, utilise Splunk to ingest events from the AD server and a target machine, and then using a Kali Linux machine acting as an attacker to perform a brute force attack to generate telemetry across these systems.
 
 ### Skills Learned
 
